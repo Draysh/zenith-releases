@@ -21,6 +21,10 @@
 
 ---
 
+<p align="center">
+  <img src="looks/library.png" width="860" alt="The library: clips by day, with the games in the sidebar">
+</p>
+
 A small background recorder keeps a rolling buffer while a game runs. Press
 your shortcut and the last seconds are saved as a clip. The app is where you
 browse your clips, trim and cut them, and export them at a size that fits
@@ -40,6 +44,10 @@ Discord.
 - **No account, and your clips stay on your computer.** The one thing Zenith
   contacts is GitHub, to see whether there is a newer version; that can be
   switched off in the settings.
+
+<p align="center">
+  <img src="looks/editor.png" width="560" alt="The editor: the clip, its three sound tracks on the timeline, and export to a size">
+</p>
 
 ## Install
 
